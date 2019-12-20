@@ -20,5 +20,9 @@ This is a page containing many wonderful shortcuts to features on Windows 10 (te
 
 This is some pre-compiled code that makes a [material design](https://www.material.io) button labelled "THIS BUTTON DOESN'T DO ANYTHING", and it isn't lying. It won't ever be updated, and any pull requests to this will be ignored by Mr Me.
 
+## Contributing
+
+As mentioned above, any pull requests changing any files in /material will be ignored, but if you have any other interesting and useful pages or changes to existing pages then I will consider them and merge them if I think they will make the site better, or help me get better at web design, or fix stupid errors.
+
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
