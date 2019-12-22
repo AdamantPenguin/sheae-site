@@ -4,7 +4,7 @@ SHEA Entrepreneurs (Super Helpful Enterprise Areas Entrepreneurs) is a pseudo-co
 
 ## Where is it?
 
-It is hosted at [sheae.atwebpages.com](http://sheae.atwebpages.com/), and also on GitHub Pages at [adamantpenguin.github.io/sheae-site](adamantpenguin.github.io/sheae-site).
+It is hosted at [sheae.atwebpages.com](http://sheae.atwebpages.com/), and I am currently trying to figure out how to use GitHub Pages in which case it will probably end up there too.
 
 ## Pages
 
