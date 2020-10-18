@@ -1,6 +1,6 @@
 # sheae-site
 
-SHEA Entrepreneurs (Super Helpful Enterprise Areas Entrepreneurs) is a pseudo-company, if that's a word, which has a website where I try to learn web design.
+SHEA Entrepreneurs (Super Helpful Enterprise Areas Entrepreneurs) is a pseudo-company, if that's a word, which has a website where I try to learn web design. It probably won't be updated much anymore because I prefer using GitHub Pages with HTTPS thank you very much
 
 ## Where is it?
 
